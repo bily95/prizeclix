@@ -1,0 +1,17 @@
+<?php return array (
+  'admin.email.config' => 'App\\Http\\Livewire\\Admin\\Email\\Config',
+  'admin.email.edit-template' => 'App\\Http\\Livewire\\Admin\\Email\\EditTemplate',
+  'admin.email.index' => 'App\\Http\\Livewire\\Admin\\Email\\Index',
+  'admin.layout.home' => 'App\\Http\\Livewire\\Admin\\Layout\\Home',
+  'admin.offerwall.admin-offer-analysis' => 'App\\Http\\Livewire\\Admin\\Offerwall\\AdminOfferAnalysis',
+  'admin.setting.authentication' => 'App\\Http\\Livewire\\Admin\\Setting\\Authentication',
+  'admin.setting.config' => 'App\\Http\\Livewire\\Admin\\Setting\\Config',
+  'admin.setting.control' => 'App\\Http\\Livewire\\Admin\\Setting\\Control',
+  'admin.setting.general' => 'App\\Http\\Livewire\\Admin\\Setting\\General',
+  'admin.setting.security' => 'App\\Http\\Livewire\\Admin\\Setting\\Security',
+  'admin.support.index' => 'App\\Http\\Livewire\\Admin\\Support\\Index',
+  'home' => 'App\\Http\\Livewire\\Home',
+  'live-chat' => 'App\\Http\\Livewire\\LiveChat',
+  'live-state' => 'App\\Http\\Livewire\\LiveState',
+  'welcome' => 'App\\Http\\Livewire\\Welcome',
+);

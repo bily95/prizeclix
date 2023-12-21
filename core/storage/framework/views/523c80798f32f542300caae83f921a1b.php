@@ -1,0 +1,2 @@
+<canvas id="<?php echo e($options['chart_name'] ?? 'myChart'); ?>" class="<?php echo e($options['style_class'] ?? ''); ?>"></canvas>
+<?php /**PATH D:\workspace\v1Xapps30-11\core\vendor\laraveldaily\laravel-charts\src/views/html.blade.php ENDPATH**/ ?>
